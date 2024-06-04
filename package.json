@@ -1,0 +1,27 @@
+{
+  "name": "service-video-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend",
+    "dev": "nodemon backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ThomasPDM@github.com/ThomasPDM/service-video-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasPDM/service-video-js/issues"
+  },
+  "homepage": "https://github.com/ThomasPDM/service-video-js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
